@@ -25,3 +25,8 @@ Kullanılan Framwork Sürümü
 Entity Framwork Core 6.0
 
 
+![1](https://github.com/user-attachments/assets/4434a9d5-5960-48b7-8668-ef9126b41cdb)
+![2](https://github.com/user-attachments/assets/80568d47-fc9c-45ab-bdfc-88123159a162)
+![3](https://github.com/user-attachments/assets/a168f50e-bb87-4f60-afd3-1c2682ebed58)
+![4](https://github.com/user-attachments/assets/9b25ffaf-3d9e-4ea4-81dd-52cc12a80e49)
+![5](https://github.com/user-attachments/assets/f92624ec-a229-4b86-8869-264d7fe3ee8c)
